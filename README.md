@@ -1,1 +1,7 @@
+HELLO
+HELLO
+HOW 
+ARE
+YOU
+DOING
 # git-repo
